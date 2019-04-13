@@ -3563,6 +3563,10 @@ figure.item-zoom-blue:hover:after, figure.item-zoom-blue.hover:after {
         margin-top: 10px;
         margin-bottom: 10px;
     }
+
+    .resume-btn {
+        margin-top: 10px;
+    }
 }
 
 /*==========================================================
