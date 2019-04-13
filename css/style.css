@@ -3564,7 +3564,7 @@ figure.item-zoom-blue:hover:after, figure.item-zoom-blue.hover:after {
         margin-bottom: 10px;
     }
 
-    .resume-btn {
+    #resume-btn {
         margin-top: 10px;
     }
 }
