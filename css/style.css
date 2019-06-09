@@ -2397,6 +2397,7 @@ blockquote {
     width: 100%;
     height: auto;
     position: relative;
+    border-bottom: 22px solid #38656D;
 }
 
 .frame-img-colors img {
@@ -3825,7 +3826,9 @@ figure.item-zoom-blue:hover:after, figure.item-zoom-blue.hover:after {
 
 .contact-photo {
     max-width: 100%;
-    margin-top: 50px;
+    /* margin-top: 50px; */
+    border-radius: 10px;
+    box-shadow: 8px 8px 15px -5px #696969;
 }
 
 .contact-info-section p {
